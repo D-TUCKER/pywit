@@ -36,7 +36,7 @@ setup(
     author='The Wit Team',
     author_email='help@wit.ai',
     cmdclass={'build_py': build_py},
-    install_requires=install_requires,
+    # install_requires=install_requires,
     packages=['wit'],
     url='http://github.com/wit-ai/pywit',
 )
